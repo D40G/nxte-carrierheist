@@ -6,7 +6,8 @@ A Open Source FiveM heist that is easy to adjust to your server with the Config.
 PREVIEW:  https://youtu.be/wYV4KsqpVos
 
 - NPC code from : github.com/Lionh34rt
-Dependency's:
+
+-Dependency's:
 
 - qb-core
 - qb-target
